@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=INGCollege
+comment0.text=This\ class\ inherits\ attributes\ and\ methods\ from\ ActionListener\ interface
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ \r\n\ This\ is\ the\ main\ method\ of\ INGCollege\ class\ \r\n\ \r\n\ @param\ String\ [\ ]\ args\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ This\ method\ is\ used\ to\ implement\ the\ Action\ Listeners\ to\ handle\ events\r\n\ \ \ \r\n\ @param\ ActionEvent\r\n
+numComments=3

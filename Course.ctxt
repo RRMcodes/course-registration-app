@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Course
+comment1.params=courseID\ courseName\ courseDuration
+comment1.target=Course(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\ \r\n\ This\ is\ the\ constructor\ of\ Course\ class\ \r\n\ \r\n\ @param\ courseID,courseName,corseDuration\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCourseID()
+comment2.text=\ \r\n\ This\ is\ accessor\ method\ for\ private\ String\ courseID\ \r\n\ \r\n\ @return\ courseID\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCourseName()
+comment3.text=\ \r\n\ This\ is\ acessor\ method\ for\ private\ String\ courseName\r\n\ \r\n\ @return\ courseName\r\n
+comment4.params=
+comment4.target=java.lang.String\ getCourseLeader()
+comment4.text=\ \r\n\ This\ is\ acessor\ method\ for\ private\ String\ courseLeader\ \r\n\ \r\n\ @return\ courseLeader\r\n
+comment5.params=
+comment5.target=int\ getCourseDuration()
+comment5.text=\r\n\ This\ is\ acessor\ method\ for\ private\ int\ courseDuration\r\n\ \r\n\ @return\ courseDuration\r\n
+comment6.params=courseLeader
+comment6.target=void\ setCourseLeader(java.lang.String)
+comment6.text=\r\n\ This\ is\ mutator\ method\ for\ private\ String\ courseLeader\r\n\ \r\n\ @param\ courseLeader\r\n
+comment7.params=
+comment7.target=void\ display()
+comment7.text=\r\n\ This\ method\ displays\ courseID,courseName,courseDuration,courseLeader\r\n
+numComments=8
